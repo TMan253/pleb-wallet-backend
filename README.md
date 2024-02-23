@@ -31,6 +31,14 @@ In the project directory, you can run:
 
 Installs dependencies locally.
 
+### `npx knex migrate:latest`
+
+Creates SQLite 3 database and tables.
+
+### `npx knex seed:run`
+
+Populates SQLite 3 database table rows.
+
 ### `npm [run] start`
 
 Runs the app in the development mode.\
